@@ -64,16 +64,19 @@ p {
   text-align: left;
   flex-direction: column;
   width: 60%;
+  height: 100%;
 }
 
 p.newsp {
-  text-align: right;
   margin: 15px;
+  margin-top: 0px;
+  text-align: right;
 }
 
 h1.newsh {
   font-size: 50px;
   filter: drop-shadow(4px 2px 5px #0005);
   margin: 15px;
+  margin-top: 0px;
   text-align: right;
 }
