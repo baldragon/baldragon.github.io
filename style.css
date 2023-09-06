@@ -65,6 +65,7 @@ p {
   flex-direction: column;
   width: 60%;
   height: 100%;
+  word-wrap: break-word;
 }
 
 p.newsp {
