@@ -31,6 +31,9 @@ h1.hdr {
   filter: drop-shadow(4px 2px 5px #0005);
   text-align: center;
   margin: 15px;
+  background: #0001;
+  padding: 10px;
+  border-radius: 35px;
 }
 
 .news {
