@@ -99,6 +99,8 @@ h1.newsh {
 }
 
 p.newsts {
+  margin: 0px;
+  width: 100%;
   text-align: right;
   font-weight: 400;
 }
