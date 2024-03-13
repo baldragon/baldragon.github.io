@@ -8,13 +8,13 @@ body {
 }
 
 nav.main {
-  background: linear-gradient(#ccc, #aaa);
+  background: linear-gradient(#222226, #262632);
   height: 120px;
-  padding: 7px;
+  padding: 15px;
   display: flex;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
-  color: black;
+  color: white;
   filter: drop-shadow(4px 2px 5px #0005);
 }
 
@@ -104,4 +104,24 @@ p.newsts {
   width: 100%;
   text-align: right;
   font-weight: 400;
+}
+
+.containerbutton {
+  width: 100%;
+  text-align: right;
+  display: flex;
+  flex-direction: row-reverse;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+button.mainb {
+  font-family: 'Mulish';
+  width: 15%;
+  height: 75%;
+  margin: 5px;
+  border: 0px;
+  border-radius: 25px;
+  background: #0002;
+  color: white;
 }
