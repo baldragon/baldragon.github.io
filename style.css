@@ -125,3 +125,20 @@ button.mainb {
   background: #0002;
   color: white;
 }
+
+.containerfoot {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin-top: 10px;
+  background: #0001;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+p.newsft {
+  margin: 0px;
+  width: 100%;
+  text-align: center;
+  font-weight: 400;
+}
