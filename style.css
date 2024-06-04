@@ -118,8 +118,9 @@ p.newsts {
 button.mainb {
   font-family: 'Mulish';
   width: 15%;
-  height: 75%;
+  height: fit-content;
   margin: 5px;
+  padding: 20px;
   border: 0px;
   border-radius: 25px;
   background: #0002;
