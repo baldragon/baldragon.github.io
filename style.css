@@ -28,9 +28,10 @@ h1.bda {
 }
 
 h1.hdr {
-  font-size: 40px;
+  font-size: 35px;
   filter: drop-shadow(4px 2px 5px #0005);
   text-align: center;
+  width: 50%;
   margin: 25px;
   background: #0001;
   padding: 10px;
@@ -48,13 +49,13 @@ h1.hdr {
 }
 
 img.newsimg {
-  height: 200px;
+  height: 100%;
   border-radius: 25px;
   float: left;
 }
 
 h1.newsh {
-  font-size: 50px;
+  font-size: 35px;
   filter: drop-shadow(4px 2px 5px #0005);
   float: right;
   margin: 0px;
@@ -84,7 +85,7 @@ p.newsp {
 }
 
 h1.newsh {
-  font-size: 50px;
+  font-size: 35px;
   filter: drop-shadow(4px 2px 5px #0005);
   margin: 15px;
   margin-top: 0px;
