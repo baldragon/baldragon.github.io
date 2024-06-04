@@ -127,8 +127,6 @@ button.mainb {
 }
 
 .containerfoot {
-  position: absolute;
-  bottom: 0;
   width: 100%;
   margin-top: 10px;
   background: #0001;
